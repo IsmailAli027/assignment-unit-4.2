@@ -1,0 +1,22 @@
+header {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+.info {
+    background-color: blue;
+    color: yellow;
+    text-align: left;
+}
+
+h3 {
+    background-color: yellow;
+    color: blue;
+    text-align: right;
+}
+body {
+    background-color: bisque;
+}
